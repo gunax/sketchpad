@@ -13,10 +13,10 @@ body {
 #resetButton{
     height:25px;
     background-color:darkseagreen;
-    font-size: 16;
+    font-size: 13;
 }
 #container{
-    display:inline-block;
+    text-align: center;
     padding: 10px;
     margin: auto;
 }
